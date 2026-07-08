@@ -1,0 +1,6 @@
+{
+  "name": "Reactive Music Visualizer",
+  "description": "A high-performance real-time music visualizer reacting to microphone input, uploaded audio files, or a built-in synthesizer and beat loop sequencer. Features multiple gorgeous visualizer engines (Circular Ring, 3D Terrain, Particle Storm, Kaleidoscope) and custom themes styled dynamically via Gemini AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
